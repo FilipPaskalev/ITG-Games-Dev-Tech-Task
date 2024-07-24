@@ -1,0 +1,1 @@
+{"version":3,"file":"gameConfig.js","sourceRoot":"","sources":["../../src/dbMock/gameConfig.ts"],"names":[],"mappings":";;;;;AAAA,0EAAyD;AAEzD,MAAM,YAAY,GAAW,GAAG,CAAC;AACjC,MAAM,aAAa,GAAW,GAAG,CAAC;AAClC,MAAM,SAAS,GAAW,QAAQ,CAAC;AACnC,MAAM,SAAS,GAAW,CAAC,CAAC;AAE5B,MAAM,kBAAkB,GAAsB,IAAI,oBAAiB,CAAC,YAAY,EAAE,aAAa,EAAE,SAAS,EAAE,SAAS,CAAC,CAAC;AAEvH,kBAAe,kBAAkB,CAAC"}
